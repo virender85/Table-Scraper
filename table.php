@@ -1,5 +1,5 @@
 <?php
-$data = file_get_contents('http://www.goal.com/en/teams/spain/barcelona/2017?ICID=HP_TN_5_2_1');
+$data = file_get_contents('example.com');
 
 $dom = new domDocument;
 
